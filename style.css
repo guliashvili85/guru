@@ -1,0 +1,13 @@
+
+.mobileContent{
+    color: red;
+    display: block;
+}
+/* @media(max-width: 600px) {
+    .mobileContent{
+        display: block;
+    }
+    .webContent{
+        display: none;
+    }
+  } */
